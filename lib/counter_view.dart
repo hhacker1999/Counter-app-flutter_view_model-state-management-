@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_view_model/flutter_view_model.dart';
-import 'package:flutter_view_model_test/counter_view_model.dart/bloc/counterviewmodel_bloc.dart';
+import 'package:flutter_view_model_test/counter_view_model.dart/bloc/counterviewmodel.dart';
 
 class CounterView extends StatefulWidget {
   @override

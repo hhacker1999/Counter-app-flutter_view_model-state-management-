@@ -1,4 +1,4 @@
-part of 'counterviewmodel_bloc.dart';
+part of 'counterviewmodel.dart';
 
 abstract class CounterviewmodelState extends Equatable {
   const CounterviewmodelState();
